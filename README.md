@@ -4,3 +4,5 @@
 -var, let, const
 -Naming rules
 -console.log() and console.table();
+## Day 2 
+-Conversion of number into String and String to number
