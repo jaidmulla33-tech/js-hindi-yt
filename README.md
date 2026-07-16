@@ -7,3 +7,5 @@
 ## Day 2 
 -Conversion of number into String and String to number
 -data types (Primitive and non primitive)
+-Strings
+-Comparision Operations
