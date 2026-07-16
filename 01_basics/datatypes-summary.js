@@ -32,3 +32,27 @@ let myObj = {
 const myfunction = function(){
     console.log("Hello")
 }
+
+
+// **********Memory*********//
+//stack(primitive),  Heap(Non-primitive)
+
+let myname = "jaidmajidmulla"
+
+let anotherName = myname
+anotherName = "JaidMulla"
+
+console.log(myname);
+console.log(anotherName);
+
+let user1 = {
+    emai: "user@google.com",
+    upi : "user@pay",
+}
+
+let user2 = user1
+
+user2.email = "user2@google";
+
+console.log(user1.emai);
+// console.log(user2.emai);
