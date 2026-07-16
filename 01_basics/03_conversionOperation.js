@@ -1,9 +1,9 @@
-// let score = 66
+let score = 66
 
-// console.log(typeof score)
+console.log(typeof score)
 
-// let valueInNumber = Number(score)
-// console.log(typeof valueInNumber)
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber)
 
 //"33" =>  33
 //"33abc" => NaN
@@ -19,25 +19,25 @@
 
 //converting number into string
 
-// let sumNumber = 87
+let sumNumber = 87
 
-// let StringNumber = String(sumNumber);
-// console.log(StringNumber);
-// console.log(typeof StringNumber);
+let StringNumber = String(sumNumber);
+console.log(StringNumber);
+console.log(typeof StringNumber);
 
 
 //******Operations*******
 
-// let value = 3
-// let negValue = -value
-// // console.log(-value)
+let value = 3
+let negValue = -value
+// console.log(-value)
 
 //Connect String
 
-// let str1 = "Jaid"
-// let str2 = " Mulla"
-// let str3 = str1+str2
-// console.log(str3);
+let str1 = "Jaid"
+let str2 = " Mulla"
+let str3 = str1+str2
+console.log(str3);
 
 // let num1, num2, num3
 
