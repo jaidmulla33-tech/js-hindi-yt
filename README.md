@@ -9,3 +9,8 @@
 -data types (Primitive and non primitive)
 -Strings
 -Comparision Operations
+## Day 3
+-arrays, push,pop etc.
+-Date and Time and its return methods
+-connect two or more array
+-objects
