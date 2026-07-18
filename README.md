@@ -1,5 +1,5 @@
 # JavaScript Learning Journey
-## Day 1 (15-07-26)
+## Day 1 
 -Learned Variable
 -var, let, const
 -Naming rules
@@ -14,3 +14,9 @@
 -Date and Time and its return methods
 -connect two or more array
 -objects
+## Day 4
+-Scope level and mini hosting
+-Global and local scope
+-Function and parameter
+-basics of loops
+-API Basics, JSON
