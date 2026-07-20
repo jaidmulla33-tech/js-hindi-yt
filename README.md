@@ -14,9 +14,3 @@
 -Date and Time and its return methods
 -connect two or more array
 -objects
-## Day 4
--Scope level and mini hosting
--Global and local scope
--Function and parameter
--basics of loops
--API Basics, JSON
