@@ -14,3 +14,6 @@
 -Date and Time and its return methods
 -connect two or more array
 -objects
+## Day 4
+-Arrows function
+-IIFE (immediately Invoked Function Expression)
