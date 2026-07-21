@@ -17,3 +17,7 @@
 ## Day 4
 -Arrows function
 -IIFE (immediately Invoked Function Expression)
+## Day 5
+-truthy
+-switch case
+-if - else
