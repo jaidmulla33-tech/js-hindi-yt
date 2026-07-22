@@ -2,24 +2,24 @@
 
 const coding = ["js", "ruby", "java", "python", "cpp"]
 // //syntax of forEach loop
-// coding.forEach(function (item) {                //in forEach function not have name
-//     console.log(item);
-// })
+coding.forEach(function (item) {                //in forEach function not have name
+    console.log(item);
+})
 
 
-// coding.forEach( (item) => {          //This is arrow function in forEach
-//     console.log(item)
-// })
+coding.forEach( (item) => {          //This is arrow function in forEach
+    console.log(item)
+})
 
 
-// function printMe(item){
-//      console.log(item);         //this function need external console.log statement
-// }
-// coding.forEach(printMe);
+function printMe(item){
+     console.log(item);         //this function need external console.log statement
+}
+coding.forEach(printMe);
 
-// coding.forEach((item, index, arr) => {
-//     console.log(item, index, arr);
-// })
+coding.forEach((item, index, arr) => {
+    console.log(item, index, arr);
+})
 
 const myCoding = [
     {
