@@ -21,3 +21,7 @@
 -truthy
 -switch case
 -if - else
+## Day 6
+-filter map and reduced
+-while and do while loop
+-for loop, for in, for of
