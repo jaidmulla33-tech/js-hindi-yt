@@ -25,3 +25,7 @@
 -filter map and reduced
 -while and do while loop
 -for loop, for in, for of
+## Day 7
+-DOM how to access the branch
+-query selector
+-manupulation
