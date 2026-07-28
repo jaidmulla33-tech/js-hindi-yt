@@ -29,3 +29,4 @@
 -DOM how to access the branch
 -query selector
 -manupulation
+-Project 1 color switcher
