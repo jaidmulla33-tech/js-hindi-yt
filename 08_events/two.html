@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Jaid Mulla</h1>
+    <button id="stop">Stop</button>
+</body>
+<script>
+    // setTimeout(function(){
+    //     console.log("Jaid")
+    // }, 2000)// takes 2 sec to print in the console
+
+    const sayJaid = function(){
+        console.log("Jaid");
+    }
+    document.querySelector('h1').innerHTML = "Jaid and JavaScript"    //we can user timeOut by declearing teh variable
+    setTimeout(sayJaid, 5000)
+
+    // clearTimeout
+    document.querySelector('#stop').addEventListener('click', function(){
+        clearTimeout(sayJaid)
+        console.log("STOPPED")
+    })
+</script>
+</html>
