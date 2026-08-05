@@ -32,3 +32,5 @@
 -Project 1 color switcher
 ## Day 8
 -Project 1 and project 2
+## Day 9
+-Events
