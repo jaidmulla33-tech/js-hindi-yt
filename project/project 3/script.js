@@ -19,7 +19,7 @@ const startChangingColor = function () {
     document.body.style.backgroundColor = randomColor();
   }
 };
-const stopChangingColor = function () {
+constf stopChangingColor = function () {
   clearInterval(intervalId);
   intervalId = null;
 };
