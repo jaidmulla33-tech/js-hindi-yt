@@ -35,4 +35,8 @@
 ## Day 9
 -Events
 -API Request
--
+-reject, resolved
+## Day 10
+-objects, new keyword
+-prototyes, inheritance
+-calls
