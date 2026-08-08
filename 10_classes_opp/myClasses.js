@@ -43,7 +43,7 @@ const mulla = new User("mulla", "mulla@gmail.com", "!@#$")
 
 console.log(mulla.encryptPassword);  // function reference
 console.log(mulla.changeUsername);   // function reference
-```
+
 
 
 
