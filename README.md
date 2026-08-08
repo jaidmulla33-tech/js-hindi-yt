@@ -40,3 +40,11 @@
 -objects, new keyword
 -prototyes, inheritance
 -calls
+## Day 11
+-classes
+-inheritance
+-Math.PI value
+-static prop
+-bind
+-getters and setters
+-object in gat set
